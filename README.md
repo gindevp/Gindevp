@@ -1,6 +1,6 @@
 ## Hi I'm Quyet :fox_face:
 
-https://www.facebook.com/photo/?fbid=624170508142479&set=a.106137723279096 
+https://github.com/quyet0709/quyet0709/blob/main/background.jpg
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
