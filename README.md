@@ -1,6 +1,6 @@
 ## Hi I'm Quyet :fox_face:
 
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+![Gaboso]([https://github.com/Gaboso/Gaboso/blob/master/github_cover.png](https://www.facebook.com/photo/?fbid=624170508142479&set=a.106137723279096) "Gaboso")
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
