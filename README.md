@@ -1,8 +1,6 @@
-## Hi I'm Quyet :fox_face:
+## Hi I'm Gaboso :fox_face:
 
-https://github.com/quyet0709/quyet0709/blob/main/background.jpg
-
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+![Quyet](https://github.com/quyet0709/quyet0709/blob/main/background.jpg "Quyet")
 
 ### My Tech Stack
 
