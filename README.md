@@ -14,7 +14,7 @@
 const Gin = {
   language: [Java, Javascript, Typescript, HTML, CSS, C],
   database: [ MySQL, SQL Server],
-  framwork: [Angular, Spring mvc, Spring boot, ReactJS]
+  framwork: [Angular, Spring mvc, Spring boot]
   
 }
 ```
